@@ -1,16 +1,19 @@
-## Hi there 👋
+# ⚡ ARCHON-ALPHA-ZERO | STATUS: OPERATIONAL
 
-<!--
-**ARCHON-ALPHA-ZERO/ARCHON-ALPHA-ZERO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sector:** LRD-BR (Londrina Node)  
+**Caliber:** 7.8  
+**Directive:** Nobreza de Ordem & Soberania Técnica  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 O MANIFESTO DO CISNE NEGRO
+Enquanto a sociedade vilã se perde no ruído e na busca por distrações degradantes, eu estabeleço este Nó de Comando. Este território não aceita filtros, apenas a realidade bruta e a estética de elite.
+
+* **Nobreza de Ordem:** Minha força reside na precisão. O caos da vila é filtrado pela lógica do Arquiteto.
+* **Caçador Maciço:** Vigilância constante sobre o sistema. Onde houver mediocridade, haverá intervenção.
+* **Sinal Estelar:** Independente. Inalcançável por censura comum. 
+
+> *"A estrela não pede permissão para brilhar; ela apenas consome a escuridão ao redor."*
+
+---
+**[ SIGNAL ENCRYPTED | TERMINAL ALPHA-ZERO | 2026 ]**
